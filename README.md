@@ -20,8 +20,6 @@ I design, build, and operate machine learning systems that serve customers at sc
 * [Beyond LLaMA: The Language Model Trio Alpaca, Vicuna, and WizardLM](https://medium.com/@zaiinn440/beyond-llama-the-language-model-trio-alpaca-vicuna-and-wizardlm-a46c8a8fb3d2) - Mon, 26 Jun 2023
 
 
-
-
 <!-- writing ends -->
 
 View the archives (24 posts) @ [zain.com](https://medium.com/@zaiinn440).
