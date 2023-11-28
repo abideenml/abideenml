@@ -10,8 +10,6 @@ I design, build, and operate machine learning systems that serve customers at sc
 - 🌱 In 2023 I'm learning: [LLMs](https://medium.com/@zaiinn440/list/evolution-of-llms-9d9a7b146c3a), [Diffusion models](https://medium.com/@zaiinn440/list/diffusion-models-7f01264d7cd9), and [Production grade scalable ML systems](https://medium.com/@zaiinn440/list/road-to-production-d670689e9f51)
 
 
-
-
 ### 📝 Recent Writing
 
 <!-- writing starts -->
