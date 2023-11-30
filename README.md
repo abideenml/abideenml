@@ -13,16 +13,16 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Designing a RAG-based LLM for Personalised Engagement and Customer Support](https://medium.com/@zaiinn440/designing-a-rag-based-llm-for-personalised-engagement-and-customer-support-99028a59d79b) - Thur, 30 Nov 2023
 * [One-Stop Guide for Production Recommendation Systems](https://medium.com/@zaiinn440/one-stop-guide-for-production-recommendation-systems-9491f68d92e3) - Tue, 21 Nov 2023
 * [Weekly AI News | The Latest AI Updates](https://medium.com/@zaiinn440/list/latest-generative-ai-0c8da31b6381) -  Every Sunday
 * [Complete Roadmap For Learning Diffusion Models (Prereqs, DDPM, Stable Diffusion, Dreambooth, and More!)](https://medium.com/ai-in-plain-english/complete-roadmap-for-learning-diffusion-models-prereqs-ddpm-stable-diffusion-dreambooth-and-a15941767180) - Tue, 26 Sep 2023
-* [How OpenAI’s DALL-E works?](https://medium.com/@zaiinn440/how-openais-dall-e-works-da24ac6c12fa) - Wed, 11 Oct 2023
 * [Beyond LLaMA: The Language Model Trio Alpaca, Vicuna, and WizardLM](https://medium.com/@zaiinn440/beyond-llama-the-language-model-trio-alpaca-vicuna-and-wizardlm-a46c8a8fb3d2) - Mon, 26 Jun 2023
 
 
 <!-- writing ends -->
 
-View the archives (24 posts) @ [zain.com](https://medium.com/@zaiinn440).
+View the archives (25 posts) @ [zain.com](https://medium.com/@zaiinn440).
 
 
 ---
