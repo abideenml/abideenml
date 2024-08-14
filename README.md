@@ -1,4 +1,4 @@
-I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an LLMs Consultant helping companies/labs/startups to seamlessly integrate LLMs into their infrastructure. 
+ML engineer adept at LLM pretraining, fine-tuning, rlhf, rag, and agentic workflows.
 
 ### 🔬 Recent OS Projects
 
