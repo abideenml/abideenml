@@ -4,6 +4,8 @@ ML engineer adept at LLM pretraining, fine-tuning, rlhf, rag, and agentic workfl
 
 <!-- writing starts -->
 * [llm.pth](https://github.com/abideenml/llm.pth) - Hackable implementations of Autoregressive models (Llama, mixtral, gemma, deepseek), Research papers (cope, yarn, mod, mome, mla) and techniques (sft, dpo, kto, ipo) in Pytorch.
+* [AutoSynth](https://github.com/abideenml/AutoSynth) - Automatically create synthetic data using SOTA techniques (Self Instruct, Magpie, Agent Instruct, Arena Learning, Genstruct, Instruction Synthesizer, Self-Curation) using your LLMs.
+* [Llama3.1-SyntheticDataPipeline](https://github.com/abideenml/Llama3.1-SyntheticDataPipeline) - Implementation of Synthetic data pipeline of Llama 3.1 using Langgraph, Groq, Pytest and Black. Paper: https://arxiv.org/abs/2407.21783
 * [LightAgents](https://github.com/abideenml/LightAgents) - A wrapper free Agents library with RAG, function calling, json mode, telemetry and multi-layer memory.
 * [llama3.cuda](https://github.com/abideenml/llama3.cuda) - llama3.cuda is an implementation of Llama 3.1 in pure C/CUDA. Consists of Swiglu, RoPE, CSE, RMSNorm and GQA kernels.
 
