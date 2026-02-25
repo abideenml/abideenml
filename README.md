@@ -8,12 +8,12 @@ ML engineer adept at LLM pretraining, fine-tuning, rlhf, rag, and agentic workfl
 * [Llama3.1-SyntheticDataPipeline](https://github.com/abideenml/Llama3.1-SyntheticDataPipeline) - Implementation of Synthetic data pipeline of [Llama 3.1](https://arxiv.org/abs/2407.21783) using Langgraph, Groq, Pytest and Black. 
 * [LightAgents](https://github.com/abideenml/LightAgents) - A wrapper free Agents library with RAG, function calling, json mode, telemetry and multi-layer memory.
 * [llama3.cuda](https://github.com/abideenml/llama3.cuda) - llama3.cuda is an implementation of Llama 3.1 in pure C/CUDA. Consists of Swiglu, RoPE, CSE, RMSNorm and GQA kernels.
-
+* [prime-lab-trainer](https://github.com/abideenml/prime-lab-trainer) - A CC skill that builds, validates, and submits RL training environments on Prime Intellect — from any HuggingFace dataset to a live GRPO training run, fully automated.
 ### 💻 Recent Work Projects
 
 <!-- writing starts -->
-* [Elemental Compute](https://www.linkedin.com/company/elemental-compute-limited/) - Implemented a self-optimizing multimodal pipeline with RAG, Agentic workflow, and open-source AI using LLM-as-a-Judge and Mixture of Agents. Managed 30+ GPUs for multi-node inference of the entire multimodal pipeline consisting of LLama-3.1 70B, Phi-3-medium-128k-instruct, Llava-next-8b, and SDXL-Lightning.
 * [John Snow Labs](https://www.linkedin.com/company/johnsnowlabs) - Released a series of JSL-MedX 3B, 7B, 8B, and 70B LLMs in the Healthcare domain. JSL-MedX models are ranked No. 1 on the Open Medical Leaderboard across all Param variants.
+* [Danucore](https://www.linkedin.com/company/danucore/) - Architected and deployed a self-optimizing multimodal AI pipeline integrating RAG, agentic workflows, and open-source foundation models, leveraging LLM-as-a-Judge and Mixture-of-Agents for adaptive reasoning. Orchestrated 30+ GPUs across multi-node infrastructure to power end-to-end inference with Llama-3.1-70B, Phi-3-Medium-128K-Instruct, LLaVA-Next-8B, and SDXL-Lightning.
 * [QueryLoopAi](https://www.linkedin.com/company/queryloopai/) - Pre-trained a 500M SLM from scratch on a carefully curated high-quality 15B tokens synthetic dataset. Created the entire training and evaluation pipeline along with managing training on 8xA100s. Created Kendrick, a mixture of experts model with 32k experts and Multi-latent head attention.
 
 ### 📝 Recent Writing
