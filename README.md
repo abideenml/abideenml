@@ -1,18 +1,19 @@
-ML engineer adept at LLM pretraining, fine-tuning, rlhf, rag, and agentic workflows.
+ML engineer adept at LLM pretraining, post-training(sft, dpo, rlvr), and agentic workflows.
 
 ### 🔬 Recent OS Projects
 
 <!-- writing starts -->
 * [llm.pth](https://github.com/abideenml/llm.pth) - Hackable implementations of Autoregressive models (Llama, mixtral, gemma, deepseek), Research papers (cope, yarn, mod, mome, mla) and techniques (sft, dpo, kto, ipo) in Pytorch.
-* [AutoSynth](https://github.com/abideenml/AutoSynth) - Automatically create synthetic data using SOTA techniques (Self Instruct, Magpie, Agent Instruct, Arena Learning, Genstruct, Instruction Synthesizer, Self-Curation) using your LLMs.
-* [Llama3.1-SyntheticDataPipeline](https://github.com/abideenml/Llama3.1-SyntheticDataPipeline) - Implementation of Synthetic data pipeline of [Llama 3.1](https://arxiv.org/abs/2407.21783) using Langgraph, Groq, Pytest and Black. 
-* [LightAgents](https://github.com/abideenml/LightAgents) - A wrapper free Agents library with RAG, function calling, json mode, telemetry and multi-layer memory.
 * [llama3.cuda](https://github.com/abideenml/llama3.cuda) - llama3.cuda is an implementation of Llama 3.1 in pure C/CUDA. Consists of Swiglu, RoPE, CSE, RMSNorm and GQA kernels.
 * [prime-lab-trainer](https://github.com/abideenml/prime-lab-trainer) - A CC skill that builds, validates, and submits RL training environments on Prime Intellect — from any HuggingFace dataset to a live GRPO training run, fully automated.
+* [AutoSynth](https://github.com/abideenml/AutoSynth) - Automatically create synthetic data using SOTA techniques (Self Instruct, Magpie, Agent Instruct, Arena Learning, Genstruct, Instruction Synthesizer, Self-Curation) using your LLMs.
+* [LightAgents](https://github.com/abideenml/LightAgents) - A wrapper free Agents library with RAG, function calling, json mode, telemetry and multi-layer memory.
+
+
 ### 💻 Recent Work Projects
 
 <!-- writing starts -->
-* [John Snow Labs](https://www.linkedin.com/company/johnsnowlabs) - Released a series of JSL-MedX 3B, 7B, 8B, and 70B LLMs in the Healthcare domain. JSL-MedX models are ranked No. 1 on the Open Medical Leaderboard across all Param variants.
+* [John Snow Labs](https://www.linkedin.com/company/johnsnowlabs) - Released a series of JSL-MedX 4B, 8B, 30B, and 70B LLMs in the Healthcare domain. JSL-MedX models are ranked No. 1 on the Open Medical Leaderboard across all Param variants. Leading the post-training (sft, preference optimization, rlhf, rlvr) of all models at John Snow Labs.
 * [Danucore](https://www.linkedin.com/company/danucore/) - Architected and deployed a self-optimizing multimodal AI pipeline integrating RAG, agentic workflows, and open-source foundation models, leveraging LLM-as-a-Judge and Mixture-of-Agents for adaptive reasoning. Orchestrated 30+ GPUs across multi-node infrastructure to power end-to-end inference with Llama-3.1-70B, Phi-3-Medium-128K-Instruct, LLaVA-Next-8B, and SDXL-Lightning.
 * [QueryLoopAi](https://www.linkedin.com/company/queryloopai/) - Pre-trained a 500M SLM from scratch on a carefully curated high-quality 15B tokens synthetic dataset. Created the entire training and evaluation pipeline along with managing training on 8xA100s. Created Kendrick, a mixture of experts model with 32k experts and Multi-latent head attention.
 
