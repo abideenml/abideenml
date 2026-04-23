@@ -1,4 +1,4 @@
-ML engineer adept at LLM pretraining, post-training(sft, dpo, rlvr), and agentic workflows.
+ML engineer adept at LLM pretraining, post-training (sft, dpo, rlvr), and agentic workflows.
 
 ### 🔬 Recent OS Projects
 
